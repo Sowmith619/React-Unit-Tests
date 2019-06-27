@@ -2,7 +2,7 @@ import React from 'react';
 
 class Note extends React.Component{
     render(){
-        //console.log(this.props.notes)
+        console.log(this.props.notes)
 
         return(
 
